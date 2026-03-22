@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Marwa Al Badawy</h1>
+<h3 align="center">Data Scientist & AI Engineer</h3>
 
-<!--
-**Marwa-Al-Badawy/Marwa-Al-Badawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marwa-Al-Badawy&label=Profile%20views&color=0e75b6&style=flat" alt="Marwa-Al-Badawy" /> </p>
 
-Here are some ideas to get you started:
+- Learn more about my professional journey [here](#)  <!-- ضع رابط السي في لاحقًا -->
+- Feel free to discuss **Data Science, Machine Learning, and Data Analysis** with me
+- Open to collaborate on exciting **Data Science & AI projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/marwa-al-badawy-a38515347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marwa-Al-Badawy" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/marwaalbadawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marwaalbadawy" height="30" width="40" /></a>
+<a href="https://github.com/Marwa-Al-Badawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Marwa-Al-Badawy" height="30" width="40" /></a>
+</p>
+
+## Technical Stack:
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### 📊 Data Analysis & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-315796?style=flat&logo=seaborn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### 📊 Projects
+- **Telecom Churn Project** ([GitHub](https://github.com/Marwa-Al-Badawy/telchurn)) ✅
+- Home Loan Eligibility Analysis  
+- Energy Consumption Prediction – Linear Regression  
+
+### 👾 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+
+---
+
+<p align="center">Looking forward to collaborating and learning together! 🚀</p>
